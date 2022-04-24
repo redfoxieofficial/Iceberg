@@ -1,0 +1,25 @@
+[
+    {
+        "Soru": "Aşağıdaki lise derslerdeninden hangisi en zor ve anlaması güçtür",
+        "yanlis0": "Türkçe",
+        "yanlis1": "Biyoloji",
+        "yanlis2":"Matematik",
+        "dogru":"Kimya"
+        },
+
+        {
+            "Soru": "Aşağıdaki lise derslerdeninden hangisi en zor ve anlaması güçtür",
+        "yanlis0": "Türkçe",
+        "yanlis1": "Biyoloji",
+        "yanlis2":"Matematik",
+        "dogru":"Kimya"
+            },
+
+            {
+                "Soru": "Aşağıdaki lise derslerdeninden hangisi en zor ve anlaması güçtür",
+        "yanlis0": "Türkçe",
+        "yanlis1": "Biyoloji",
+        "yanlis2":"Matematik",
+        "dogru":"Kimya"
+                }
+]

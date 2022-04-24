@@ -1,0 +1,248 @@
+ {
+ "sorular":[
+    {
+      "Soru": "Antartika hangi yarım kürededir?",
+      "SecenekA":"Kuzey Yarım Küre",
+      "SecenekB":"Batı Yarım Küre",
+      "SecenekC":"Doğu Yarım Küre",
+      "SecenekD":"Güney Yarım Küre",
+      "dogru":"SecenekD"
+    },
+    {
+      "Soru": "Antarktika’nın sözcük anlamı nedir?",
+      "SecenekA":"Arktik Üstü Bölge",
+      "SecenekB":"Güney Bölgesi",
+      "SecenekC":"Arktik Tersi Bölge",
+      "SecenekD":"Beyaz Bölge",
+      "dogru":"SecenekC"
+    },
+    {
+      "Soru": "Antarktika’da kimler yaşar?",
+      "SecenekA":"Hiç kimse",
+      "SecenekB":"Araştırmacılar",
+      "SecenekC":"Denizciler",
+      "SecenekD":"Eskimolar",
+      "dogru":"SecenekB"
+    },
+    {
+      "Soru": "Antarktika nereye veya kime aittir?",
+      "SecenekA":"NATO",
+      "SecenekB":"Amerika’ya",
+      "SecenekC":"Avrupa Birliği",
+      "SecenekD":"Hiçbiri",
+      "dogru":"SecenekD"
+    },
+    {
+      "Soru": "Antarktika neden soğuktur?",
+      "SecenekA":"Karın güneş ışınlarını yansıttığı için",
+      "SecenekB":"Sera gazı fazla olduğu için",
+      "SecenekC":"Güneş’e çok uzak olduğu için",
+      "SecenekD":"Güneş ışınları eğik açıyla geldiği için",
+      "dogru":"SecenekD"
+    },
+    {
+      "Soru": "Antarktika’da ölçülen en yüksek sıcaklık nedir?",
+      "SecenekA":"10,7 derece",
+      "SecenekB":"18,5 derece",
+      "SecenekC":"20,4 derece",
+      "SecenekD":"30,4 derece",
+      "dogru":"SecenekC"
+    },
+    {
+      "Soru": "Antarktika’da ölçülen en düşük sıcaklık nedir?",
+      "SecenekB":"- 100,9 derece",
+      "SecenekC":"- 18,3 derece",
+      "SecenekA":"- 50 derece",
+      "SecenekD":"- 89,2 derece",
+      "dogru":"SecenekD"
+    },
+    {
+      "Soru": "Güney Işıkları neden oluşur?",
+      "SecenekB":"Işık atmosferde renkli görülecek biçimde kırılır",
+      "SecenekA":"Yıldızların hareketi atmosferde ışık yansımaları oluşturur",
+      "SecenekD":"Kutuplardaki hava durumu ışık kırılmalarını etkiler",
+      "SecenekC":"Dünya’nın manyetik alanı elektrik yüklerini kutuplara çeker",
+      "dogru":"SecenekC"
+    },
+   
+    {
+      "Soru": "Güney Işıklarına ne ad verilir?",
+      "SecenekD":"Aurora Borealis",
+      "SecenekB":"Aurora Layman",
+      "SecenekA":"Aurora Antarktis",
+      "SecenekC":"Aurora Australis",
+      "dogru":"SecenekC"
+    },
+    {
+      "Soru": "Antarktika’da hangi canlı türü yaşar?",
+      "SecenekC":"Kutup Ayıları",
+      "SecenekB":"Kutup Tilkileri",
+      "SecenekD":"Morslar",
+      "SecenekA":"Penguenler",
+      "dogru":"SecenekA"
+    },
+    {
+      "Soru": "Antarktika’da kaç tür penguen yaşar?",
+      "SecenekB":"16",
+      "SecenekD":"7",
+      "SecenekC":"2",
+      "SecenekA":"5",
+      "dogru":"SecenekA"
+    },
+    {
+      "Soru": "Antarktika’daki penguenler nasıl sayılır?",
+      "SecenekD":"Elektronik Küpe Yöntemiyle",
+      "SecenekA":"Sürü Takip Yöntemiyle",
+      "SecenekB":"Sürü Takip Yöntemiyle",
+      "SecenekC":"Uydu görüntüleri kullanılarak",
+      "dogru":"SecenekC"
+    },
+    {
+      "Soru": "Antarktika’da hangi tür balina yaşamaz?",
+      "SecenekC":"Kambur Balina",
+      "SecenekB":"Katil Balina",
+      "SecenekD":"Mavi Balina",
+      "SecenekA":"Beyaz Balina",
+      "dogru":"SecenekA"
+    },
+    {
+      "Soru": "Dünya için en çok oksijen üreten canlı sınıfı hangisidir?",
+      "SecenekA":"Ağaçlar",
+      "SecenekC":"Çimenler",
+      "SecenekD":"Çiçekler",
+      "SecenekB":"Planktonlar ve Algler",
+      "dogru":"SecenekB"
+    },
+    {
+      "Soru": "Bazı buzullar neden yeşil veya kırmızı renkte görünür?",
+      "SecenekC":"Güneş ışınlarının kırılma şeklinden dolayı",
+      "SecenekD":"İçlerindeki minerallerden dolayı",
+      "SecenekB":"Çevre kirliliğinden dolayı",
+      "SecenekA":"Üzerlerindeki planktonlardan dolayı",
+      "dogru":"SecenekA"
+    },
+    {
+      "Soru": "Albedo nedir?",
+      "SecenekC":"Buzulların ışığı yansıtma durumu",
+      "SecenekA":"Işığın parlaklık ölçütü",
+      "SecenekD":"Güneş ışınlarının atmosferden yansıması",
+      "SecenekB":"Bir cismin ışığı yansıtma kapasitesi",
+      "dogru":"SecenekB"
+    },
+    {
+      "Soru": "Buzkıranlar ne iş yapar?",
+      "SecenekB":"Buzulları kırarak fok balıklarına yol açar",
+      "SecenekD":"Araştırma örneği olarak buzul toplarlar",
+      "SecenekC":"Petrole ulaşmak için buzulları kırarlar",
+      "SecenekA":"Buzulları kırarak gemilere yol açarlar",
+      "dogru":"SecenekA"
+    },
+    {
+      "Soru": "Antarktika’yı çevreleyen denize ne ad verilir?",
+      "SecenekC":"Kuzey Buz Denizi",
+      "SecenekA":"Atlas Okyanusu",
+      "SecenekD":"Pasifik Okyanusu",
+      "SecenekB":"Antarktika Okyanusu",
+      "dogru":"SecenekB"
+    },
+    {
+      "Soru": "Buzulların mavi veya şeffaf görünmelerinin nedeni nedir?",
+      "SecenekA":"Kırıcılık indisi yüksek buzullar mavi, düşük buzullar şeffaf görünür",
+      "SecenekD":"Yüksekteki buzullar gökyüzünü yansıttığı için mavi görünür, alçaktakiler şeffaftır",
+      "SecenekB":"Mineral oranı fazla olan buzullar mavi, az olanlar şeffaftır",
+      "SecenekC":"Yeni buzullar beyaz, eski buzullar mavi renk görünür",
+      "dogru":"SecenekC"
+    },
+    {
+      "Soru": "Antarktika’yı kimler keşfetti?",
+      "SecenekB":"Amerikalılar",
+      "SecenekC":"Norveçliler",
+      "SecenekA":"Vikingler",
+      "SecenekD":"İngilizler",
+      "dogru":"SecenekD"
+    },
+    {
+      "Soru": "Kutuplar bizim için neden önemlidir?",
+      "SecenekA":"Kültürel çeşitlilik sağladıkları için",
+      "SecenekC":"Kutuplarda araştırma yapmak önemli olduğu için",
+      "SecenekD":"Kutuplarda bolca petrol bulunduğu için",
+      "SecenekB":"Kutuplardaki hava koşullarının değişmesi ekolojiyi etkilediği için",
+      "dogru":"SecenekB"
+    },
+    {
+      "Soru": "Buzullar erirse aşağıdaki olaylardan hangisi gerçekleşmez?",
+      "SecenekB":"Kutuplardaki hayvanlar ölür",
+      "SecenekA":"Deniz seviyesi yükselir",
+      "SecenekD":"Ekosistem zarar görür",
+      "SecenekC":"Dünyanın ekseni değişir",
+      "dogru":"SecenekC"
+    },
+    {
+      "Soru": "Kutupları korumak için aşağıdakilerden hangisi yapılmalıdır?",
+      "SecenekD":"Enerji israfı yapmak",
+      "SecenekA":"Kutuplardaki petrolü çıkarmak",
+      "SecenekC":"Denizlere çöp atmak",
+      "SecenekB":"Atıkları geri dönüştürmek",
+      "dogru":"SecenekB"
+    },
+    {
+      "Soru": "Svalbard Küresel Tohum Deposu nerededir?",
+      "SecenekA":"Antarktika’da ",
+      "SecenekD":"Kanada’da",
+      "SecenekB":"CERN’de ",
+      "SecenekC":"Arktik’te",
+      "dogru":"SecenekC"
+    },
+    {
+      "Soru": "Kutuplardaki Türkler hangi dili konuşur?",
+      "SecenekB":"Kırgız Türkçesi ",
+      "SecenekC":"Türkiye Türkçesi",
+      "SecenekD":"Kazak Türkçesi",
+      "SecenekA":"Yakut Türkçesi",
+      "dogru":"SecenekA"
+    },
+    {
+      "Soru": "Aşağıdaki bilim insanlarından hangisinin soyadı Antarktika’da bir bölgeye verilmiştir?",
+      "SecenekD":"Burcu Özsoy",
+      "SecenekA":"Sinan Yirmibeşoğlu",
+      "SecenekB":"Aziz Sancar",
+      "SecenekC":"Serap Tilav",
+      "dogru":"SecenekC"
+    },
+    {
+      "Soru": "İlk Türk Kutup Kampı hangi yıl kurulmuştur?",
+      "SecenekA":"2010",
+      "SecenekC":"2005",
+      "SecenekB":"2010",
+      "SecenekD":"2019",
+      "dogru":"SecenekD"
+    },
+    {
+      "Soru": "Türk Kutup Seferlerine kim liderlik etmektedir?",
+      "SecenekA":"Serap Tilav",
+      "SecenekC":"Umran İnan",
+      "SecenekB":"Halide Edip Adıvar",
+      "SecenekD":"Burcu Özsoy",
+      "dogru":"SecenekA"
+    },
+
+    {
+      "Soru": "Okyanuslarda dolaşımı sağlayan akıntı döngüsünün tamamlanması ne kadar sürer?",
+      "SecenekB":"120 yıl",
+      "SecenekD":"18 ay",
+      "SecenekC":"16 hafta",
+      "SecenekA":"1000 yıl",
+      "dogru":"SecenekA"
+    },
+    {
+      "Soru": "Hangisi Antarktika’da yerleşik insan yaşamı olmamasına karşın kirlilik olmasının nedenlerinden biri değildir?",
+      "SecenekB":"Hava kirliliğinin rüzgarlarla taşınması",
+      "SecenekA":"Akıntıların kirliliği taşıması",
+      "SecenekC":"Gemilerin petrol sızıntıları",
+      "SecenekD":"Kutup Sumrularının gittikleri yerden getirdikleri",
+      "dogru":"SecenekD"
+    }
+  ]
+
+}
+  
